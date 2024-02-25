@@ -300,8 +300,8 @@ input, select, textarea {
 	}
 
 	#bg {
-		background-size: 2250px auto;
-		width: 6750px;
+		background-size: 2200px auto;
+		width: 6700px;
 	}
 
 /* Overlay */
@@ -347,12 +347,12 @@ input, select, textarea {
 	}
 
 	#overlay {
-		-moz-animation: overlay 1.5s 1.5s forwards;
-		-webkit-animation: overlay 1.5s 1.5s forwards;
-		-ms-animation: overlay 1.5s 1.5s forwards;
-		animation: overlay 1.5s 1.5s forwards;
+		-moz-animation: overlay 2.5s 2.5s forwards;
+		-webkit-animation: overlay 2.5s 2.5s forwards;
+		-ms-animation: overlay 2.5s 2.5s forwards;
+		animation: overlay 2.5s 2.5s forwards;
 		background-attachment: fixed, fixed;
-		background-image: url("images/interior1.jpg"), url("images/interior1.jpg");
+		background-image: url("images/interior1.jpg"), url("images/interior2.jpg");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
