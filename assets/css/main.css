@@ -244,10 +244,10 @@ input, select, textarea {
 		}
 
 		100% {
-			-moz-transform: translate3d(-2250px,0,0);
-			-webkit-transform: translate3d(-2250px,0,0);
-			-ms-transform: translate3d(-2250px,0,0);
-			transform: translate3d(-2250px,0,0);
+			-moz-transform: translate3d(-2200px,0,0);
+			-webkit-transform: translate3d(-2200px,0,0);
+			-ms-transform: translate3d(-2200px,0,0);
+			transform: translate3d(-2200px,0,0);
 		}
 	}
 
@@ -260,10 +260,10 @@ input, select, textarea {
 		}
 
 		100% {
-			-moz-transform: translate3d(-2250px,0,0);
-			-webkit-transform: translate3d(-2250px,0,0);
-			-ms-transform: translate3d(-2250px,0,0);
-			transform: translate3d(-2250px,0,0);
+			-moz-transform: translate3d(-2200px,0,0);
+			-webkit-transform: translate3d(-2200px,0,0);
+			-ms-transform: translate3d(-2200px,0,0);
+			transform: translate3d(-2200px,0,0);
 		}
 	}
 
@@ -276,10 +276,10 @@ input, select, textarea {
 		}
 
 		100% {
-			-moz-transform: translate3d(-2250px,0,0);
-			-webkit-transform: translate3d(-2250px,0,0);
-			-ms-transform: translate3d(-2250px,0,0);
-			transform: translate3d(-2250px,0,0);
+			-moz-transform: translate3d(-2200px,0,0);
+			-webkit-transform: translate3d(-2200px,0,0);
+			-ms-transform: translate3d(-2200px,0,0);
+			transform: translate3d(-2200px,0,0);
 		}
 	}
 
@@ -292,10 +292,10 @@ input, select, textarea {
 		}
 
 		100% {
-			-moz-transform: translate3d(-2250px,0,0);
-			-webkit-transform: translate3d(-2250px,0,0);
-			-ms-transform: translate3d(-2250px,0,0);
-			transform: translate3d(-2250px,0,0);
+			-moz-transform: translate3d(-2200px,0,0);
+			-webkit-transform: translate3d(-2200px,0,0);
+			-ms-transform: translate3d(-2200px,0,0);
+			transform: translate3d(-2200px,0,0);
 		}
 	}
 
@@ -347,10 +347,10 @@ input, select, textarea {
 	}
 
 	#overlay {
-		-moz-animation: overlay 2.5s 2.5s forwards;
-		-webkit-animation: overlay 2.5s 2.5s forwards;
-		-ms-animation: overlay 2.5s 2.5s forwards;
-		animation: overlay 2.5s 2.5s forwards;
+		-moz-animation: overlay 3s 3s forwards;
+		-webkit-animation: overlay 3s 3s forwards;
+		-ms-animation: overlay 3s 3s forwards;
+		animation: overlay 3s 3s forwards;
 		background-attachment: fixed, fixed;
 		background-image: url("images/interior1.jpg"), url("images/interior2.jpg");
 		background-position: top left, center center;
